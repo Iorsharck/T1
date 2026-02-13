@@ -1,8 +1,8 @@
 # Descripción del proyecto
 En este proyeccto se analisa los procesos de Windows usando un programa de cpp que mediante el uso de memoria y la carpeta de ejecución evalua si es sospechoso o no, para posteriormente hacer el reporte.
 # Integrantes de equipo
-Jair Gonzalo Cortés Romero
-Estefani Jazmín Meléndez Magallanes
+- Jair Gonzalo Cortés Romero  
+- Estefani Jazmín Meléndez Magallanes
 # Instrucciones de compilación y ejecución
 ## Compilación
 Para compilar se escribe en PowerShell:``g++ main.cpp -o AnalisisProcesos.exe -lpsapi``
